@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この夢に弔いを",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-02-19T10:18:15.350366Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この夢に弔いを",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_この夢に弔いを_ヰ世界情緒.txt"
+    }
+  ]
+}
